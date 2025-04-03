@@ -78,7 +78,7 @@ export default function About() {
           height={100}
         />
       </div>
-      <p className="text-xs font-thin pt-1.5">My dog, <a className="underline cursor-pointer" href="https://www.imdb.com/title/tt0093132/">Hachi</a> enjoying the warm spring breeze.</p>
+      <p className="text-xs font-thin pt-1.5">*My dog, <a className="underline cursor-pointer" href="https://www.imdb.com/title/tt0093132/">Hachi</a> enjoying the warm spring breeze.</p>
 
       <Link href="/" className="block w-fit mt-4">
         <button className="text-sm px-4 py-2 cursor-pointer bg-yellow-600 text-white rounded-xl font-light hover:bg-yellow-700 transition duration-200 shadow-md hover:shadow-xl">
