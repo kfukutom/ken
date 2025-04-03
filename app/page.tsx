@@ -6,7 +6,7 @@ import ExperienceList from "@/components/Experience";
 
 export default function Home() {
   return (
-    <div className="animate-fade-up animate-once animate-ease-linear px-4 sm:px-12 md:px-24 lg:px-36 xl:px-[424px] py-12">
+    <div className="animate-fade-up bg-white animate-once animate-ease-linear px-4 sm:px-12 md:px-24 lg:px-36 xl:px-[424px] py-12">
       <Header />
       <Bio />
       <SocialLinks />

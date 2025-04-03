@@ -5,7 +5,7 @@ import TechStack from "@/components/TechStack";
 
 export default function About() {
   return (
-    <div className="animate-fade-right animate-once animate-ease-linear px-4 sm:px-12 md:px-24 lg:px-36 xl:px-[424px] py-12">
+    <div className="animate-fade-right bg-white animate-once animate-ease-linear px-4 sm:px-12 md:px-24 lg:px-36 xl:px-[424px] py-12">
       <h1 className="text-lg font-light">Hello!</h1>
       <p className="text-xs text-yellow-600 italic">Currently in Tampa, Florida 🌴</p>
       <p className="mt-2 text-sm font-thin text-gray-500">
