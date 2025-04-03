@@ -5,13 +5,13 @@ import Image from "next/image";
 const experiences = [
   {
     company: "Kittelson & Associates",
-    role: "Engineering Intern",
+    role: "Data Engineering",
     year: "2025",
     logo: kittelson,
   },
   {
     company: "University of Tokyo",
-    role: "Data, Research",
+    role: "Data, Policy Research",
     year: "2024",
     logo: todai,
   },

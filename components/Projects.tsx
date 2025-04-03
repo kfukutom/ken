@@ -4,7 +4,7 @@ import Image from "next/image";
 import p1 from "@/public/github.png";
 import p2 from "@/public/projects/p2.png";
 import p3 from "@/public/projects/p3.png";
-import p4 from "@/public/link.png";
+import p4 from "@/public/Proj.jpeg";
 
 const projects = [
   {
