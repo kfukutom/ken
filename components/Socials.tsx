@@ -10,7 +10,7 @@ export default function SocialLinks() {
         href="https://example.com"
         target="_blank"
         rel="noopener noreferrer"
-        className="cursor-pointer animate-wiggle animate-once w-40 h-15 flex items-center justify-center bg-gray-100 rounded-lg text-2xl hover:border-[2px] hover:border-black-500 transition"
+        className="cursor-pointer w-40 h-15 flex items-center justify-center bg-gray-100 rounded-lg text-2xl hover:border-[2px] hover:border-black-500 transition"
       >
         <Image src={fig} alt="Design Portfolio" width={60} height={60} />
       </a>

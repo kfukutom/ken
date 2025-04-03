@@ -19,8 +19,8 @@ export default function Bio() {
         </a>{" "}
         & building digital experiences 📌
       </p>
-      <p className="text-sm text-black-500">
-        I have a <span className="font-bold">passion</span> for transportation, clean code, and ui/ux design.
+      <p className="text-sm text-gray-600">
+        I have a <span className="font-bold">passion</span> for active transportation, writing clean code, and ux-designing.
       </p>
     </div>
   );
