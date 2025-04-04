@@ -33,7 +33,7 @@ const projects = [
 export default function ProjectList() {
   return (
     <>
-      <p className="text-xl mt-2.5 font-light text-gray-700 mb-4">Projects</p>
+      <p className="text-xl mt-2.5 font-light text-gray-700 mb-4">CS Projects</p>
       <div className="flex flex-wrap justify-center gap-4">
         {projects.map((project, i) => (
           <div
