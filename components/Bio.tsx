@@ -4,7 +4,7 @@ export default function Bio() {
   return (
     <div className="flex flex-col gap-2 pb-6">
       <p className="text-sm text-gray-600">
-        CS @{" "}
+        CS, Math @{" "}
         <span className="text-yellow-600">Michigan</span>
       </p>
       <p className="text-sm text-gray-600">
