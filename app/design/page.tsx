@@ -2,7 +2,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="animate-fade-left animate-once animate-ease-linear bg-white px-4 sm:px-12 md:px-24 lg:px-36 xl:px-[424px] py-12 space-y-6">
-        
+        {/* I fixed everything here*/}
         <p className="text-left text-xl text-yellow-600">design + beyond</p>
 
         <div className="space-y-2">
