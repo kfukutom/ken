@@ -4,7 +4,7 @@ export default function Bio() {
   return (
     <div className="flex flex-col gap-2 pb-6">
       <p className="text-sm text-gray-600">
-        CS, Math @{" "}
+        Data Science, Math @{" "}
         <span className="text-yellow-600">Michigan</span>
       </p>
       <p className="text-sm text-gray-600">
@@ -20,7 +20,7 @@ export default function Bio() {
         & building digital experiences 📌
       </p>
       <p className="text-sm text-gray-600">
-        I have a <span className="font-bold">passion</span> for active transportation, writing clean code, and ux-designing.
+        I have a <span className="font-bold">passion</span> for active transportation, writing clean code, and designing.
       </p>
     </div>
   );

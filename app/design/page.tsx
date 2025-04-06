@@ -21,7 +21,7 @@ export default function Home() {
             <p className="font-medium">ii. digital zine | <span className="text-sm text-gray-500">Figma, Miro</span></p>
             <p className="text-gray-400 font-extralight text-xs">Partner: Kaylee Foster</p>
             <p className="font-thin text-gray-500">Designed an digital magazine outling various character archetypes of an observed environment.</p>
-            <a href="/design/urban-screens" className="text-blue-600 underline hover:text-blue-800 transition">
+            <a href="/design/zine" className="text-blue-600 underline hover:text-blue-800 transition">
             view project
             </a>
         </div>
