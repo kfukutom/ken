@@ -19,7 +19,7 @@ export default function Home() {
                 <p className="text-sm font-medium text-gray-800">Skills:</p>
                 <div className="flex flex-wrap gap-2">
                     {["Figma", "Affinity Diagramming", "Data Setting", "Process Coding"].map((skill) => (
-                        <span key={skill} className="bg-black text-white rounded-full text-xs px-3 py-1">
+                        <span key={skill} className="bg-black text-white rounded-full text-xs px-3 py-1 hover:bg-gray-700 ease-in cursor-default">
                             {skill}
                         </span>
                     ))}
