@@ -9,7 +9,7 @@ export default function Home() {
             <div className="space-y-1">
                 <h1 className="text-2xl font-semibold">Digital Zine</h1>
                 <p className="text-sm text-gray-600">
-                    Designed by: Ken Fukutomi and Kaylee Foster
+                    Designed by: Ken Fukutomi
                 </p>
                 <p className="text-sm text-gray-600">
                     Tools: Figma, Illustrator, Excel
@@ -57,7 +57,7 @@ export default function Home() {
                 <p className="text-sm font-light text-gray-700">
                     The magazine cover was designed to reflect the layered nature of <span className="text-blue-600">transportation systems</span> 
                     and the diverse archetypes of people who move through them — commuters, wanderers, and workers — each with their own unique systemic needs.
-                    This project allowed Kaylee and me to develop a magazine mockup that enhanced our personal design techniques by integrating multiple 
+                    This project allowed Kaylee and I to develop a magazine mockup that enhanced our personal design techniques by integrating multiple 
                     methods from qualitative design research.
                 </p>
             </div>
@@ -74,7 +74,7 @@ export default function Home() {
             <p className="text-sm font-light text-gray-700">
                 The magazine cover was designed to reflect the layered nature of <span className="text-blue-600">transportation systems</span> 
                 and the diverse archetypes of people who move through them — commuters, wanderers, and workers — each with their own unique systemic needs.
-                This project allowed Kaylee and me to develop a magazine mockup that enhanced our personal design techniques by integrating multiple 
+                This project allowed Kaylee and I to develop a magazine mockup that enhanced our personal design techniques by integrating multiple 
                 methods from qualitative design research.
             </p>
 
