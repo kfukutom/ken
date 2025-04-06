@@ -29,7 +29,16 @@ export default function Home() {
         <hr className="border-gray-200" />
 
         <div className="space-y-2">
-            <p className="font-medium">iii. think technologies | <span className="text-sm text-gray-500">LucidChart, Figma</span></p>
+            <p className="font-medium">iii. mobile app wireframe | <span className="text-sm text-gray-500">Figma, Sketch, UXPin</span></p>
+            <p className="font-thin text-gray-500">I developed a wireframe for an ecommerce business.</p>
+            <a href="/design/urban-screens" className="text-blue-600 underline hover:text-blue-800 transition">
+            view project
+            </a>
+        </div>
+
+        <hr className="border-gray-200" />
+        <div className="space-y-2">
+            <p className="font-medium">iv. think technologies | <span className="text-sm text-gray-500">LucidChart, Figma</span></p>
             <p className="text-gray-400 font-extralight text-xs">Co-lead: Jonas Groenig</p>
             <p className="font-thin text-gray-500">Diagramming a backend architecture for an ambitious Detroit startup.</p>
             <a href="/design/urban-screens" className="text-blue-600 underline hover:text-blue-800 transition">
