@@ -20,7 +20,7 @@ export default function Bio() {
         & building digital experiences 📌
       </p>
       <p className="text-sm text-gray-600">
-        I have a <span className="font-bold">passion</span> for active transportation, writing clean code, and designing.
+        I have a <span className="font-bold">passion</span> for writing clean code and designing stuff in my freetime.
       </p>
     </div>
   );

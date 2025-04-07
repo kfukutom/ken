@@ -71,12 +71,6 @@ export default function Home() {
                     className="w-full h-[600px]"
                 ></iframe>
             </div>
-            <p className="text-sm font-light text-gray-700">
-                The magazine cover was designed to reflect the layered nature of <span className="text-blue-600">transportation systems</span> 
-                and the diverse archetypes of people who move through them — commuters, wanderers, and workers — each with their own unique systemic needs.
-                This project allowed Kaylee and I to develop a magazine mockup that enhanced our personal design techniques by integrating multiple 
-                methods from qualitative design research.
-            </p>
 
             <hr className="my-6 border-gray-300" />
             <p className="text-left text-xs text-gray-600">April 6th, 2025 by @kfukutom</p>
