@@ -10,7 +10,7 @@ import HACHI2 from "@/public/hachi2.jpeg";
 
 export default function About() {
   return (
-    <div className="animate-fade-right bg-white animate-once animate-ease-linear px-4 sm:px-12 md:px-24 lg:px-36 xl:px-[424px] py-8">
+    <div className="animate-fade-right animate-once animate-ease-linear bg-white px-4 sm:px-6 md:px-8 lg:px-10 xl:px-12 py-8 max-w-screen-md mx-auto">
       <h1 className="text-lg font-light">Hello there!</h1>
       <p className="text-xs text-yellow-600 italic">Currently in Tampa, Florida 🌴</p>
 
@@ -59,7 +59,7 @@ export default function About() {
           Download Resume
         </a>
       </p>
-    
+
       <hr className="mt-4 mb-3 border-gray-200" />
       <h1 className="text-lg font-thin">Miscellaneous</h1>
       <div className="mt-3 flex flex-row gap-3">
@@ -78,7 +78,13 @@ export default function About() {
           height={100}
         />
       </div>
-      <p className="text-xs font-thin pt-1.5">*My dog, <a className="underline cursor-pointer" href="https://www.imdb.com/title/tt0093132/">Hachi</a> enjoying the warm spring breeze.</p>
+      <p className="text-xs font-thin pt-1.5">
+        *My dog,{" "}
+        <a className="underline cursor-pointer" href="https://www.imdb.com/title/tt0093132/">
+          Hachi
+        </a>{" "}
+        enjoying the warm spring breeze.
+      </p>
 
       <Link href="/" className="block w-fit mt-4">
         <button className="text-sm px-4 py-2 cursor-pointer bg-yellow-600 text-white rounded-xl font-light hover:bg-yellow-700 transition duration-200 shadow-md hover:shadow-xl">
