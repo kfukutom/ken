@@ -5,6 +5,7 @@ import p1 from "@/public/projects/uber.gif";
 import p2 from "@/public/projects/p2.png";
 import p3 from "@/public/projects/p3.png";
 import p4 from "@/public/Proj.jpeg";
+import arima from "@/public/projects/arima.png";
 
 const projects = [
   {
@@ -28,6 +29,12 @@ const projects = [
     image: p3,
     link: "https://github.com/kfukutom/cql"
   },
+  {
+    title: "Debunking Predictive Policing",
+    description: "A constructive anti-hypothesis",
+    image: arima,
+    link: "https://github.com/kfukutom/cql"
+  }
 ];
 
 export default function ProjectList() {
